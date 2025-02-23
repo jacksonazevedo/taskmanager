@@ -1,6 +1,6 @@
 # Task Manager
 
-Este projeto tem como finalidade atender a parte 2 e 4 do desafio. A Task Manager é uma aplicação Flutter que permite gerenciar uma lista de tarefas com funcionalidades de adição, exclusão (com swipe para a esquerda), atualização do status (comutando entre "Pending" e "Completed") e armazenamento local utilizando Drift (SQLite). O projeto segue o padrão MVVM/Clean Architecture e utiliza o Provider para gerenciamento de estado. 
+Este projeto tem como finalidade atender as partes 2 e 4 do desafio. A Task Manager é uma aplicação Flutter que permite gerenciar uma lista de tarefas com funcionalidades de adição, exclusão (com swipe para a esquerda), atualização do status (comutando entre "Pending" e "Completed") e armazenamento local utilizando Drift (SQLite). O projeto segue o padrão MVVM/Clean Architecture e utiliza o Provider para gerenciamento de estado. 
 
 ## Estrutura do Projeto
 
